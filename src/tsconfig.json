@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "../dist",
+    "declaration": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "lib": [
+        "es2017"
+    ]
+  },
+  "compileOnSave": false,
+  "buildOnSave": false
+}
